@@ -1,1 +1,0 @@
-# Logistics Tracking Software
